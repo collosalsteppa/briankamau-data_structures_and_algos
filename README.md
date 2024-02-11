@@ -1,1 +1,2 @@
-# briankamau-data_structures_and_algos
+Maina Brian Kamau
+SCT211-0021/2023
